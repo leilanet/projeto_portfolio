@@ -1,2 +1,1 @@
-# projeto_portfolio
-Projeto Portfolio Alura
+Este é meu primeiro projeto feito no curso da Alura - Formação em Front-end.
